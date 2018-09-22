@@ -1,0 +1,33 @@
+_repo: The-Commerce-and-Navigation-of-the-Erythraean-Sea-Being-a-Translation-of-the-Periplus-Maris-E__55054
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: McCrindle, John Watson
+    gutenberg_agent_id: '48170'
+    url: http://www.gutenberg.org/2009/agents/48170
+creator:
+  author:
+    agent_name: Anonymous
+    alias: Anonyme
+    gutenberg_agent_id: '216'
+    url: http://www.gutenberg.org/2009/agents/216
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Anonymity
+    - http://www.gutenberg.org/browse/authors/u#a49
+description: ''
+gutenberg_issued: '2017-07-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '55054'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'The Commerce and Navigation of the Erythraean Sea
+
+  Being a Translation of the Periplus Maris Erythraei and
+
+  Arrian''s Account of the Voyage of Nearkhos'
+url: http://www.gutenberg.org/ebooks/55054
